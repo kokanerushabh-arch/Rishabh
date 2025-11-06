@@ -1,2 +1,2 @@
 # Rishabh
-Python progs
+Python Program
